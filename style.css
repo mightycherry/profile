@@ -65,6 +65,9 @@ box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22) ;
     margin: 0;
     padding: 0;
     width: 300px;
+    left: 0;
+    top:0;
+    bottom:0;
     background-color: rgb(233,235,238);
     position:fixed;
 }
@@ -80,4 +83,3 @@ box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22) ;
     background-color: #555;
     color: white;
 }
-
